@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+*.so
+*.pyd
+*.wav
+*.pt
+*.safetensors
